@@ -1,8 +1,8 @@
-import styled from 'styled-components';
+import styled from "styled-components"
 
 export const FoodsContainer = styled.div`
-  width: 100%;
-  max-width: 1280px;
+  width: 90%;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 40px 0;
   margin-top: -140px;
@@ -11,4 +11,4 @@ export const FoodsContainer = styled.div`
 
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 32px;
-`;
+`
